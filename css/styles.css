@@ -1,13 +1,15 @@
 /* Author: Ludovic Gendre
     Menu:
     1.General
-    2.About
-    3.Education/Experience
-    4.Recommendation
-    5.Hoby
+    2.Header
+    3.About
+    4.Education/Experience
+    5.Recommendation
+    6.Hoby
+    7.Responsive
 */
 
-/* General */
+/* 1.General */
 *{
     box-sizing: border-box;
 }
@@ -37,7 +39,7 @@ p{
     justify-content: space-between;
 }
 
-/* Header */
+/* 2.Header */
 header {
     background-color: white;
 }
@@ -62,7 +64,7 @@ padding: 30px;
     border-bottom: 1px solid orange;
 }
 
-/* About */
+/* 3.About */
 .about{
     background-color: orange;
     text-align: justify;
@@ -76,7 +78,7 @@ padding: 30px;
     padding: 6px 0;
 }
 
-/* Education | Experience */
+/* 4.Education | Experience */
 .main-resume{
     background-color: white;
 }
@@ -119,7 +121,7 @@ padding: 30px;
     width: 70%;
 }
 
-/* Recommendation */
+/* 5.Recommendation */
 .recommendation{
     background-color: white;
 }
@@ -140,7 +142,7 @@ padding: 30px;
     padding-bottom: 20px;
 }
 
-/* Hobby */
+/* 6.Hobby */
 .hobby{
     background-color: orange;
 }
@@ -164,7 +166,7 @@ padding: 30px;
     border-radius: 50%;
     padding: 10px;
 }
-
+/* 7.Responsive */
 @media screen and (min-width: 770px) {
     /* General */
     body{
