@@ -225,6 +225,6 @@ padding: 30px;
     .hobby{
         flex-basis: 33%;
         background-color: orange;
-        order: -2;
+        order: -1;
     }
 }
