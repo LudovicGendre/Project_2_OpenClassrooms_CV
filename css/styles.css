@@ -24,3 +24,9 @@ padding: 30px;
 .title .underline {
     border-bottom: 1px solid orange;
 }
+
+/* About */
+.about{
+    background-color: orange;
+    text-align: justify;
+}
