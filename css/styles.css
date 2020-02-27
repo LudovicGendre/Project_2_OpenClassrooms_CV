@@ -199,4 +199,14 @@ padding: 30px;
         padding: 20px 30px;
     }
 
+    /* Education | Experience */
+    .main-resume{
+        display: flex;
+        flex: 67%;
+        flex-direction: column;
+        padding: 0 40px;
+    }
+    .main-resume h4{
+        margin: 12px 0 8px 0;
+    }
 }
