@@ -128,3 +128,12 @@ padding: 30px;
     padding: 10px;
     margin: 0 20px;
 }
+
+.recommendation i{
+    color: orange;
+    margin-right: 25px;
+}
+
+.recommendation .recommendation-plus{
+    padding-bottom: 20px;
+}
