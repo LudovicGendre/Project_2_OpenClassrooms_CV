@@ -222,4 +222,9 @@ padding: 30px;
         display: flex;
         justify-content: space-between;
     }
+    .hobby{
+        flex-basis: 33%;
+        background-color: orange;
+        order: -2;
+    }
 }
