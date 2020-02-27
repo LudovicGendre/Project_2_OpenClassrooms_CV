@@ -144,3 +144,22 @@ padding: 30px;
     background-color: orange;
 }
 
+.hobby h2{
+    text-align: center;
+    color: orange;
+    background-color:  rgb(85, 84, 84);
+    padding: 6px 0;
+    margin: 0;
+}
+
+.hobby .container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.hobby i{
+    color:  rgb(85, 84, 84);
+    border: 5px solid  rgb(85, 84, 84);
+    border-radius: 50%;
+    padding: 10px;
+}
