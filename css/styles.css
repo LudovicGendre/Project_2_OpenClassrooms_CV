@@ -63,6 +63,15 @@ padding: 30px;
     border-bottom: 1px solid orange;
     margin: 0 20px;
     color: black;
+    margin: 0 20px;
+}
+
+.main-resume h2 i {
+    margin-right: 25px;
+}
+
+.main-resume i {
+    color: orange;
 }
 
 .main-resume h4 {
