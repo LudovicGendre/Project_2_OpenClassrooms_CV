@@ -34,6 +34,7 @@ padding: 30px;
 .about h2{
     text-align: center;
     color: orange;
-    background-color: grey;
-    padding: 2px 0;
+    background-color: rgb(85, 84, 84);
+    margin: 0;
+    padding: 6px 0;
 }
