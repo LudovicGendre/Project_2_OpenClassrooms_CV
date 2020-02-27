@@ -61,4 +61,6 @@ padding: 30px;
 
 .main-resume h2 {
     border-bottom: 1px solid orange;
+    margin: 0 20px;
+    color: black;
 }
