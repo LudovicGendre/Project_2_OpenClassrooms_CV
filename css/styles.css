@@ -20,3 +20,7 @@ padding: 30px;
 .title .title-second {
     font-weight: 120;
 }
+
+.title .underline {
+    border-bottom: 1px solid orange;
+}
