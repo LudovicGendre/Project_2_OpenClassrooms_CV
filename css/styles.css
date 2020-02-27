@@ -15,6 +15,15 @@ p{
     color: black;
 }
 
+.bold{
+    font-weight: 600;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
 /* Header */
 header {
     background-color: white;
@@ -77,3 +86,9 @@ padding: 30px;
 .main-resume h4 {
     margin: 8px 0 8px 0;
 }
+
+.main-resume p i {
+    width: 20px;
+    margin-right: 10px;
+}
+
