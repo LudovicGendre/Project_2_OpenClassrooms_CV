@@ -1,4 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: serif, sans-serif;
+}
 
+.container{
+    padding: 20px;
+}
+
+p{
+    font-size: 15px;
+    margin: 8px 0;
+}
 
 /* Header */
 header {
