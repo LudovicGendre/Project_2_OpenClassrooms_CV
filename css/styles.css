@@ -101,3 +101,7 @@ padding: 30px;
 .main-resume .places {
     margin-left: 28px;
 }
+
+.education .education-plus{
+    width: 70%;
+}
