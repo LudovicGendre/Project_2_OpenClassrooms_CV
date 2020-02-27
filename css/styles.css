@@ -4,6 +4,7 @@
     2.About
     3.Education/Experience
     4.Recommendation
+    5.Hoby
 */
 
 /* General */
@@ -137,3 +138,9 @@ padding: 30px;
 .recommendation .recommendation-plus{
     padding-bottom: 20px;
 }
+
+/* Hobby */
+.hobby{
+    background-color: orange;
+}
+
