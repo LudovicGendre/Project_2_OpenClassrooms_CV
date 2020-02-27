@@ -259,4 +259,7 @@ padding: 30px;
         border-left: 1px solid orange;
         border-bottom: 1px solid orange;
     }
+    .hobby h2{
+        margin: 20px 0 0 -1px;
+    }
 }
