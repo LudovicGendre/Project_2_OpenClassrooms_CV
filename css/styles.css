@@ -165,7 +165,7 @@ padding: 30px;
     padding: 10px;
 }
 
-@media screen and (min-width: 760px) {
+@media screen and (min-width: 770px) {
     /* General */
     body{
         width: 100%;
@@ -174,10 +174,23 @@ padding: 30px;
         font-size: 15px;
     }
 
+    main{
+        display: flex;
+    }
     /* Header */
     header{
         display: flex;
         padding: 0;
+    }
+    .title{
+        flex-basis: 67%;
+        padding: 80px 40px;
+    }
+
+    /* About */
+    .about{
+        width: 33%;
+        border-left: 1px solid orange;
     }
 
 }
