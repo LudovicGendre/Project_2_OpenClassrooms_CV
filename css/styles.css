@@ -20,6 +20,7 @@ body{
     margin: 0 auto;
     padding: 0;
     max-width: 900px;
+    color: black;
 }
 
 .container{
@@ -202,11 +203,15 @@ padding: 30px;
     .title{
         flex-basis: 67%;
         padding: 80px 40px;
+        border-top: 1px solid rgb(85, 84, 84);
+        border-right: 1px solid rgb(85, 84, 84);
     }
 
     .profil-picture{
         width: 33%;
         background-color: orange;
+        border-top: 1px solid orange;
+        border-left: 1px solid orange;
     }
 
     /* About */
@@ -227,6 +232,7 @@ padding: 30px;
         flex: 67%;
         flex-direction: column;
         padding: 0 40px;
+        border-right: 1px solid rgb(85, 84, 84);
     }
     .main-resume h4{
         margin: 12px 0 8px 0;
@@ -239,6 +245,8 @@ padding: 30px;
     .recommendation{
         flex-basis: 67%;
         padding: 0 40px;
+        border-right: 1px solid rgb(85, 84, 84);
+        border-bottom: 1px solid rgb(85, 84, 84);
     }
     .recommendation .container{
         display: flex;
@@ -248,5 +256,7 @@ padding: 30px;
         flex-basis: 33%;
         background-color: orange;
         order: -1;
+        border-left: 1px solid orange;
+        border-bottom: 1px solid orange;
     }
 }
