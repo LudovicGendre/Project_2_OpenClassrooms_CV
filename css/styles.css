@@ -209,4 +209,17 @@ padding: 30px;
     .main-resume h4{
         margin: 12px 0 8px 0;
     }
+
+    /* Footer */
+    footer{
+        display: flex;
+    }
+    .recommendation{
+        flex-basis: 67%;
+        padding: 0 40px;
+    }
+    .recommendation .container{
+        display: flex;
+        justify-content: space-between;
+    }
 }
