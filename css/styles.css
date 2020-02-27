@@ -53,3 +53,12 @@ padding: 30px;
     margin: 0;
     padding: 6px 0;
 }
+
+/* Education */
+.main-resume{
+    background-color: white;
+}
+
+.main-resume h2 {
+    border-bottom: 1px solid orange;
+}
