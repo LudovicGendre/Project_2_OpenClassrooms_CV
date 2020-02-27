@@ -10,11 +10,13 @@
 */
 
 /* 1.General */
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap');
 *{
     box-sizing: border-box;
 }
 body{
-    font-family: serif, sans-serif;
+    font-family: 'Montserrat',serif, sans-serif;
     margin: 0 auto;
     padding: 0;
     max-width: 900px;
