@@ -192,5 +192,11 @@ padding: 30px;
         width: 33%;
         border-left: 1px solid orange;
     }
+    .about h2{
+        margin-left: -1px;
+    }
+    .about .container{
+        padding: 20px 30px;
+    }
 
 }
