@@ -30,3 +30,10 @@ padding: 30px;
     background-color: orange;
     text-align: justify;
 }
+
+.about h2{
+    text-align: center;
+    color: orange;
+    background-color: grey;
+    padding: 2px 0;
+}
